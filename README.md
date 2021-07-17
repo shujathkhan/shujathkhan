@@ -5,10 +5,11 @@
 </p>
 
 [![Twitter: khan_shujath](https://img.shields.io/twitter/follow/khan_shujath?style=social)](https://twitter.com/khan_shujath)
-
 [![GitHub shujathkhan](https://img.shields.io/github/followers/shujathkhan?label=follow&style=social)](https://github.com/shujathkhan)
+
 [![Linkedin: shujath-khan](https://img.shields.io/badge/shujathkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shujath-khan/)](https://www.linkedin.com/in/shujath-khan/)
 <a href="https://stackoverflow.com/users/7977581/shujath" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+
 A little more about me...  
 
 ```javascript
