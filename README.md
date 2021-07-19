@@ -1,7 +1,7 @@
 <h2> Yo 🤘 Thanks for dropping by, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <p>
-  I am Shujath Khan, currently working as a Senior Frontend/Full Stack Engineer at <a href="https://github.com/shujathkhan-ey" target="_blank">EY Client Technology</a>. I am Tech evangelist and an open source advocate. Currently intersted in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
+  I am Shujath Khan, currently working as a Senior Frontend Engineer at <a href="https://github.com/shujathkhan-ey" target="_blank">EY Client Technology</a>, highly skilled in React, React-Native, JavaScript and Python. I am open to Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
 </p>
 
 [![Twitter: khan_shujath](https://img.shields.io/twitter/follow/khan_shujath?style=social)](https://twitter.com/khan_shujath)
@@ -13,32 +13,42 @@
 A little more about me...  
 
 ```javascript
-import React from "react";
-import { HumanBeing } from "world";
-const Shujath = (life) => {
-  if isAwake: 
-    life.work = "Software engineer @EY";
-    life.tech = ["react", "JS/TS", "python", ".Net", ...freelanceSkills];
-    life.freelanceSkills = ["computer vision","AR/VR","GLSL", "deep learning","robot app development"];
-    life.otherSkills = ["public speaker", "mentor"];
-    
-    life.chillTime = ["TV series", "Anime"];
-    life.schedule = {
-      day: {
-        work: code(life.tech)
-      },
-      night: {
-        study: code(life.freelanceSkills),
-        chill: life.chillTime
-      }
-    };
-    
-    else:
-        sleep(true);
-        
-    return (
-      <HumanBeing {...life} />
-    );
+import React, { useState, useEffect } from "react";
+import { code } from "./utils";
+
+const AboutMe = () => {
+  const [life, setLife] = useState({});
+  
+  useEffect(()=>{
+      let myLife={};
+      let isAwake = new Date().getHours() >= 8
+      if isAwake: 
+        myLife.work = "Software engineer @EY";
+        myLife.tech = ["react", "JS/TS", "python", ".Net"];
+        myLife.scaleUp = ["computer vision", "AR/VR", "GLSL", "deep learning", "blockchain"];
+        myLife.otherSkills = ["public speaker", "mentor"];
+        myLife.freelanceSkills = [...myLife.otherSkills, ...myLife.tech]
+
+        myLife.chillTime = ["TV series", "Anime"];
+        myLife.schedule = {
+          day: {
+            study: code(myLife.scaleUp),
+            work: code(myLife.tech)
+          },
+          night: {
+            study: code(myLife.freelanceSkills),
+            chill: myLife.chillTime
+          }
+        };
+      else:
+        sleep(true);  
+      
+      setLife({...myLife});
+  },[])
+  
+  return (
+    <Human gender={"male"} name={"Shujath Khan"} life={life} />
+  )
 }
 ```
 
