@@ -23,7 +23,7 @@ const AboutMe = () => {
       let myLife={};
       let isAwake = new Date().getHours() >= 8
       if isAwake: 
-        myLife.work = "Software engineer @EY";
+        myLife.work = "Senior Software engineer @Remote";
         myLife.tech = ["react", "JS/TS", "python", ".Net"];
         myLife.scaleUp = ["computer vision", "AR/VR", "GLSL", "deep learning", "blockchain"];
         myLife.otherSkills = ["public speaker", "mentor"];
