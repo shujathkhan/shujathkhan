@@ -1,6 +1,6 @@
 <h2> Yo 🤘 Thanks for dropping by! </h2>
 <center>
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img src="https://user-images.githubusercontent.com/13440061/175387386-1286f54a-3626-472c-b393-a33179f82eb6.gif"/>
 </center>
 <p>
   I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://hellofresh.com" target="_blank">HelloFresh</a>, highly skilled in React, React-Native, JavaScript and Python. I am open to Frontend/Mobile/Blockchain/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
