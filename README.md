@@ -1,7 +1,9 @@
-<h2> Yo 🤘 Thanks for dropping by, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
+<h2> Yo 🤘 Thanks for dropping by! </h2>
+<center>
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+</center>
 <p>
-  I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://remote.com" target="_blank">Remote</a>, highly skilled in React, React-Native, JavaScript and Python. I am open to Frontend/Mobile/Blockchain/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
+  I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://hellofresh.com" target="_blank">HelloFresh</a>, highly skilled in React, React-Native, JavaScript and Python. I am open to Frontend/Mobile/Blockchain/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
 </p>
 
 [![Twitter: khan_shujath](https://img.shields.io/twitter/follow/khan_shujath?style=social)](https://twitter.com/khan_shujath)
@@ -23,7 +25,7 @@ const AboutMe = () => {
       let myLife={};
       let isAwake = new Date().getHours() >= 8
       if isAwake: 
-        myLife.work = "Senior Software engineer @Remote";
+        myLife.work = "Senior Software engineer @HelloFresh";
         myLife.tech = ["react", "JS/TS", "python", ".Net"];
         myLife.scaleUp = ["computer vision", "AR/VR", "GLSL", "deep learning", "blockchain"];
         myLife.otherSkills = ["public speaker", "mentor"];
