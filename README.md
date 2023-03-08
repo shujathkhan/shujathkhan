@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/13440061/175387386-1286f54a-3626-472c-b393-a33179f82eb6.gif"/>
 </center>
 <p>
-  I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://hellofreshgroup.com/en/" target="_blank">HelloFresh, New Brands</a>, highly skilled in React, React-Native, JavaScript and Python. I am open to Frontend/Mobile/Blockchain/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, blockchain and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
+  I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://hellofreshgroup.com/en/" target="_blank">HelloFresh, New Ventures</a>, highly skilled in React, React-Native, Typescript, Go and Python. I am open to Mobile/Data/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, AI and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
 </p>
 
 [![Twitter: khan_shujath](https://img.shields.io/twitter/follow/khan_shujath?style=social)](https://twitter.com/khan_shujath)
@@ -89,6 +89,3 @@ const AboutMe = () => {
   <br>
   <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujathkhan&layout=compact&theme=tokyonight&langs_count=10">
 </details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shujath Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shujathkhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
