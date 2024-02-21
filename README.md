@@ -1,9 +1,10 @@
 <h2> Yo 🤘 Thanks for dropping by! </h2>
 <center>
-<img src="https://user-images.githubusercontent.com/13440061/175387386-1286f54a-3626-472c-b393-a33179f82eb6.gif"/>
+<!-- <img src="https://user-images.githubusercontent.com/13440061/175387386-1286f54a-3626-472c-b393-a33179f82eb6.gif"/> -->
+  <a href="https://app.daily.dev/shujath"><img src="https://api.daily.dev/devcards/v2/DbR_AdBDZ.png?r=cmu&type=wide" width="652" alt="Shujath Khan's Dev Card"/></a>
 </center>
 <p>
-  I am Shujath Khan, currently working as a Senior Software Engineer at <a href="https://hellofreshgroup.com/en/" target="_blank">HelloFresh, New Ventures</a>, highly skilled in React, React-Native, Typescript, Go and Python. I am open to Mobile/Data/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, AI and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
+  I currently working as a Senior Software Engineer at <a href="https://hellofreshgroup.com/en/" target="_blank">HelloFresh, New Ventures</a>, highly skilled in React, React-Native, Typescript, Go and Python. I am open to Mobile/Data/Backend/Full Stack roles. I am a Tech evangelist and an open source advocate. Currently interested in WebXR, AI and creative user experiences. I am always open to collaborating on projects and disruptive ideas. You can connect and find out more about me from here,
 </p>
 
 [![Twitter: khan_shujath](https://img.shields.io/twitter/follow/khan_shujath?style=social)](https://twitter.com/khan_shujath)
@@ -59,12 +60,7 @@ const AboutMe = () => {
 [![trophy](https://github-profile-trophy.vercel.app/?username=shujathkhan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Check out my Cards 🃏
-  
-<details>
-  <summary>Show Daily Dev Card</summary>
-  <br>
-  <a href="https://app.daily.dev/shujath"><img src="https://api.daily.dev/devcards/0540e2bec1714425b32d17bbbd1f4812.png?r=c17" width="400" alt="Shujath Khan's Dev Card"/></a>
-</details>
+
 
 <details>
   <summary>Show Github Metrics</summary>
